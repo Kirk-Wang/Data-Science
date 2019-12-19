@@ -44,4 +44,4 @@
   conda remove -n python34 numpy
   ```
 
-
+### Data Science IDE vs Developer IDE
