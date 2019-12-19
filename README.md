@@ -61,3 +61,8 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 * Is the kernel of Jupyter
 * Support for interactive data visualization and use of GUI
 
+### Ipython kernel
+* Save and run user code
+* Interact with Ipython shell through sdin/stdout
+* Communicate with notebook through ZeroMQ using json format message
+
