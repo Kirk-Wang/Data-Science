@@ -75,3 +75,8 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 ### Interaction with Notebook and kernel
 * Notebook server is the core
 * Notebook server load and save notebook
+
+### Notebook file format(.ipynb)
+* Defined by IPython Notebook(json)
+* Can read online data or CSV/XLS file
+* Can convert to other format(py,html,pdf,md, etc.)
