@@ -10,14 +10,38 @@
 
 ### Conda: Environment Mgmt
 * Create a new environment
-  * conda create --name python34 python=3.4
+  ```sh
+  conda create --name python34 python=3.4
+  ```
 * Activate environment
-  * activate python34 # for Windows
-  * source activate python34 # for Linux & Mac
+  ````sh
+  activate python34 # for Windows
+  source activate python34 # for Linux & Mac
+  ```
 * Exit environment
-  * deactivate python34 # for Windows
-  * source deactivate python34 # for Linux & Mac
+  ```sh
+  deactivate python34 # for Windows
+  source deactivate python34 # for Linux & Mac
+  ```
 * Delete environment
-  * conda remove --name python34 --all
+  ```sh
+  conda remove --name python34 --all
+  ```
+
+### Conda Package Mgmt
+* Like Python pip
+* Install Python package
+  ```sh
+  conda install numpy
+  ```
+* Check installed Python package
+  ```sh
+  conda list
+  conda list -n python34 #check particular python env
+  ```
+* Delete Python package
+  ```
+  conda remove -n python34 numpy
+  ```
 
 
