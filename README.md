@@ -71,3 +71,7 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 * A open source Web application
 * Create and share code with community
 * Use for data science
+
+### Interaction with Notebook and kernel
+* Notebook server is the core
+* Notebook server load and save notebook
