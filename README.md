@@ -14,7 +14,7 @@
   conda create --name python34 python=3.4
   ```
 * Activate environment
-  ````sh
+  ```sh
   activate python34 # for Windows
   source activate python34 # for Linux & Mac
   ```
@@ -48,3 +48,8 @@
 Data Science IDE | Developer IDE
 -|-
 Data-centric|Code-centric
+Interactivity,visualizations,variable explorer|Classes,debugging,profiling
+Less code complexity, scripts|More complex code,programs
+Integration with data sources|Integration with git,build tools,compilers
+Models and narratives storytelling|Tools and libraries functionality
+RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
