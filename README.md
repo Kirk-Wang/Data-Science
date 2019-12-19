@@ -8,5 +8,16 @@
 * Update Packages
 * Sandbox: Conda environment
 
+### Conda: Environment Mgmt
+* Create a new environment
+  * conda create --name python34 python=3.4
+* Activate environment
+  * activate python34 # for Windows
+  * source activate python34 # for Linux & Mac
+* Exit environment
+  * deactivate python34 # for Windows
+  * source deactivate python34 # for Linux & Mac
+* Delete environment
+  * conda remove --name python34 --all
 
 
