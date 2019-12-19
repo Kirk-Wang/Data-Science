@@ -66,3 +66,8 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 * Interact with Ipython shell through sdin/stdout
 * Communicate with notebook through ZeroMQ using json format message
 
+### What is Jupyter Notebook?
+* Come from IPython notebook
+* A open source Web application
+* Create and share code with community
+* Use for data science
