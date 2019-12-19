@@ -53,3 +53,11 @@ Less code complexity, scripts|More complex code,programs
 Integration with data sources|Integration with git,build tools,compilers
 Models and narratives storytelling|Tools and libraries functionality
 RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
+
+### From Ipython to Jupyter
+
+### What is Ipython?
+* A powerful interactive shell
+* Is the kernel of Jupyter
+* Support for interactive data visualization and use of GUI
+
