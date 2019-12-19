@@ -45,3 +45,6 @@
   ```
 
 ### Data Science IDE vs Developer IDE
+Data Science IDE | Developer IDE
+-|-
+Data-centric|Code-centric
