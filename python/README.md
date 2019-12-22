@@ -38,3 +38,10 @@
 0o或者0O|a=0b12|8
 无|a=10|10
 0x或者0X|a=0xa|16
+
+### 浮点数
+* 定义
+  - a = 1.2
+  - b = .4
+  - c = 1.2e-4
+* 计算时可能会丢失精度 [15. Floating Point Arithmetic: Issues and Limitations](https://docs.python.org/3.6/tutorial/floatingpoint.html)
