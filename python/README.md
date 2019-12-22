@@ -132,3 +132,5 @@ IndexError: string index out of range
 >>> c * 3
 'testxxtestxxtestxx'
 ```
+
+### 字符串格式化
