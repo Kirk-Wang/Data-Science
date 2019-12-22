@@ -86,3 +86,7 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 * Share with URL
 * Github intergreted NBViewer
 * Convert to Blogs Emails, Wikis, Books easily
+
+### 数据科学领域5个最佳Python库
+
+**Numpy/Scipy/Pandas/Matplotlib/Scikit-learn**
