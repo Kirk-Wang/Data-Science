@@ -45,3 +45,59 @@
   - b = .4
   - c = 1.2e-4
 * 计算时可能会丢失精度 [15. Floating Point Arithmetic: Issues and Limitations](https://docs.python.org/3.6/tutorial/floatingpoint.html)
+```sh
+pyton3
+>>> 1/3
+0.3333333333333333
+>>> a = 1
+>>> type(a)
+<class 'int'>
+>>> a = 1.2
+>>> type(a)
+<class 'float'>
+>>> a = .4
+>>> a
+0.4
+>>> a = 1.2e-4
+>>> a
+0.00012
+>>> 1/3
+0.3333333333333333
+>>> a = 1/3
+>>> type(a)
+<class 'float'>
+>>> 1+3
+4
+>>> a = 1
+>>> b = 3
+>>> c = a + b
+>>> c
+4
+>>> 2 * 4
+8
+>>> 2 * -4
+-8
+>>> 2 / 4
+0.5
+>>> 8 / 3
+2.6666666666666665
+>>> 4 / 2
+2.0
+>>> 2 // 4
+0
+>>> a = 4 / 2
+>>> type(a)
+<class 'float'>
+>>> b = 4 // 2
+>>> type(b)
+<class 'int'>
+>>> c = 8 // 3
+>>> c
+2
+>>> a = 0.2/0.4
+>>> a
+0.5
+>>> a = 0.2 // 0.4
+>>> a
+0.0
+```
