@@ -108,4 +108,27 @@ pyton3
   - a = "test"
   - a = "中文"
   - a = '''在一个字符串里包含一个双引号(")和一个单引号(')'''
-
+```sh
+>>> a = "test"
+>>> a[0
+... ]
+'t'
+>>> a[4]
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+IndexError: string index out of range
+>>> a[-4]
+'t'
+>>> a[-1]
+'t'
+>>> a[-2]
+'s'
+>>> a[-3]
+'e'
+>>> b = 'xx'
+>>> c = a + b
+>>> c
+'testxx'
+>>> c * 3
+'testxxtestxxtestxx'
+```
