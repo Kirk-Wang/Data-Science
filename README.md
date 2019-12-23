@@ -95,3 +95,8 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 * N维数组（矩阵），快速高效，矢量数学运算
 * 高效的 Index, 不需要循环
 * 开源免费跨平台，运行效率足以和 C/Matlab 媲美
+
+### Scipy
+* 依赖于Numpy
+* 专为科学和工程设计
+* 实现了多种常用科学计算：线性代数，傅里叶变换，信号和图像处理
