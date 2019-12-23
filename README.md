@@ -124,3 +124,8 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 * 向量：是指 1xn 或者 nx1 的矩阵
 * 标量：1x1的矩阵
 * 数组：N维的数组，是矩阵的延伸
+
+### 特殊矩阵
+* 全0全1矩阵
+* 单位矩阵
+
