@@ -87,6 +87,9 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 * Github intergreted NBViewer
 * Convert to Blogs Emails, Wikis, Books easily
 
-### 数据科学领域5个最佳Python库
+## Five Python Libs in Data Science
 
 **Numpy/Scipy/Pandas/Matplotlib/Scikit-learn**
+
+### Numpy
+* N维数组（矩阵），快速高效，矢量数学运算
