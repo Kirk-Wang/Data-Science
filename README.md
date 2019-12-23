@@ -138,3 +138,6 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 
 ### 矩阵乘法
 * 设 A 为 mxp的矩阵，B为pxn的矩阵，mxn的矩阵C为A与B的乘积，记为C=AB,其中矩阵C中的第i行第j列元素可以表示为：
+
+### 完整学习线性代数领域的知识体系
+bobo老师的[专为程序员设计的线性代数课程](https://coding.imooc.com/class/260.html)
