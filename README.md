@@ -129,3 +129,12 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 * 全0全1矩阵
 * 单位矩阵
 
+### 矩阵的加减运算
+* 相加，减的两个矩阵必须要有相同的行和列
+* 行和列对应元素相加减
+
+### 数组乘法（点乘）
+* 数组乘法（点乘）是对应元素之间的乘法
+
+### 矩阵乘法
+* 设 A 为 mxp的矩阵，B为pxn的矩阵，mxn的矩阵C为A与B的乘积，记为C=AB,其中矩阵C中的第i行第j列元素可以表示为：
