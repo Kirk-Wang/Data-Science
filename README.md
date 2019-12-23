@@ -100,3 +100,13 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 * 依赖于Numpy
 * 专为科学和工程设计
 * 实现了多种常用科学计算：线性代数，傅里叶变换，信号和图像处理
+
+### Pandas
+* 结构化数据分析利器（依赖Numpy）
+* 提供了多种高级数据结构：Time-Series, DataFrame, Panel
+* 强大的数据索引和处理能力
+
+### Matplotlib
+* Python 2D绘图领域使用最广泛的套件
+* 基本能取代Matlab的绘图功能（散点，曲线，柱形等）
+* 通过 mplot3d可以绘制精美的3D图
