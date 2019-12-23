@@ -93,3 +93,5 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 
 ### Numpy
 * N维数组（矩阵），快速高效，矢量数学运算
+* 高效的 Index, 不需要循环
+* 开源免费跨平台，运行效率足以和 C/Matlab 媲美
