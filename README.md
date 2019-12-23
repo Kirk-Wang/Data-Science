@@ -109,4 +109,9 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 ### Matplotlib
 * Python 2D绘图领域使用最广泛的套件
 * 基本能取代Matlab的绘图功能（散点，曲线，柱形等）
-* 通过 mplot3d可以绘制精美的3D图
+* 通过mplot3d可以绘制精美的3D图
+
+### Scikit-learn
+* 机器学习的Python模块
+* 建立在Scipy之上，提供了常用的机器学习算法：聚类，回归
+* 简单易学的API接口
