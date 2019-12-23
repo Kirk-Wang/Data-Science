@@ -115,3 +115,12 @@ RStudio,Spyder,Jupyter,JupyterLab|PyCharm,Visual Studio,Wing IDE,Sublime text
 * 机器学习的Python模块
 * 建立在Scipy之上，提供了常用的机器学习算法：聚类，回归
 * 简单易学的API接口
+
+## Math Basic: Matrix Manipulation
+回顾矩阵运算
+
+### 基本概念
+* 矩阵：矩形的数组，即二维数组。其中向量和标量都是矩阵的特例
+* 向量：是指 1xn 或者 nx1 的矩阵
+* 标量：1x1的矩阵
+* 数组：N维的数组，是矩阵的延伸
